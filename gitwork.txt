@@ -1,0 +1,9 @@
+hello sourava i am now learn that how to make repositry and add file to the stage then commit what i do , bellow i write some general command 
+1. mkdir newfolder(to create a fresh file )
+2. cd newfolder(change your directory to work on that)
+3. git init (making git repository)
+4. touch newfile.txt (to create a new file)
+5. git status(what changes by you (untracked or clear))
+6. git add , or git add specific_file_name (to maintain the change of the history )
+7. git commit -m "comment what you change"(saave the git history)
+
