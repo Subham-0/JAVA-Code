@@ -1,0 +1,5 @@
+1.Object-oriented means we organize our software as a combination of different types of objects that incorporate both data and behavior.
+2.The Java platform differs from most other platforms in the sense that it is a software-based platform that runs on top of other hardware-based platforms. It has two components:
+
+Runtime Environment
+API(Application Programming Interface)
