@@ -2,4 +2,13 @@
 2.The Java platform differs from most other platforms in the sense that it is a software-based platform that runs on top of other hardware-based platforms. It has two components:
 
 Runtime Environment
+<<<<<<< Updated upstream
+API(Application Programming Interface
+
+i am just testing git comands )
+=======
 API(Application Programming Interface)
+
+
+i am just testing
+>>>>>>> Stashed changes
